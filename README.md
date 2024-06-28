@@ -1,4 +1,4 @@
-Hi there 👋, I'm Taku Nakajima, a researcher in structural engineering of architecture. My research focuses on form-finding of spatial structures.
+Hi there 👋, I'm a researcher in structural engineering of architecture. My research focuses on form-finding of spatial structures.
 
 <!---
 tknkjm615/tknkjm615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
